@@ -1,6 +1,7 @@
 # 문제풀이
 
-## password : level1
+## ID : level1
+## PASSWORD : level1
 
 1. ls -l 입력결과 hint 파일 발견
    cat 명령어를 사용해 파일의 내용을 확인한다.
