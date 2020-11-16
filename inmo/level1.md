@@ -1,5 +1,7 @@
 # 문제풀이
 
+## password : level1
+
 1. ls -l 입력결과 hint 파일 발견
    cat 명령어를 사용해 파일의 내용을 확인한다.
 
@@ -32,4 +34,4 @@ bin 디렉토리에 이동해 ExecuteMe 파일 실행결과 아래 문구출력
 
 my-pass(FTZ의 패스워드 확인명령어)를 입력해 level2계정의 비밀번호를 확인한다.
 
-level2 Password : "hacker or cracker"
+### level2 Password : "hacker or cracker"
